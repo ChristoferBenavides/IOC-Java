@@ -1,0 +1,9 @@
+David,5
+Maria,3
+Roger,2
+Luis,5
+Andres,1
+Sara,5
+Alvaro,2
+Mario,1
+Joan,1

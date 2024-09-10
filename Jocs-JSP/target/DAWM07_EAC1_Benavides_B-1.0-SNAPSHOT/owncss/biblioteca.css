@@ -1,0 +1,21 @@
+/* 
+    Created on : 08-sep-2019
+    Author     : Germán Flores
+*/
+.divJoc{
+    border-color: black;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-bottom-right-radius: 15px;
+    -moz-border-right-radius: 15px;
+    margin-top: 30px;
+}
+.ownImgTable{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+
+

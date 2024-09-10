@@ -1,0 +1,11 @@
+cat\xtec\ioc\domain\Xollo.class
+cat\xtec\ioc\service\VendaService.class
+cat\xtec\ioc\controller\VendesController.class
+cat\xtec\ioc\repository\impl\InMemoryXolloRepository.class
+cat\xtec\ioc\repository\XolloRepository.class
+cat\xtec\ioc\domain\Vol.class
+cat\xtec\ioc\controller\LoginController.class
+cat\xtec\ioc\controller\TotXolloController.class
+cat\xtec\ioc\domain\Hotel.class
+cat\xtec\ioc\domain\Lloguer.class
+cat\xtec\ioc\service\impl\VendaServiceImpl.class

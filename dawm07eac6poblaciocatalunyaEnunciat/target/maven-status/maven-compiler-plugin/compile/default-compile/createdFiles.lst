@@ -1,0 +1,4 @@
+cat\xtec\ioc\controller\RendesController.class
+cat\xtec\ioc\domain\repository\RendaRepository.class
+cat\xtec\ioc\domain\Renda.class
+cat\xtec\ioc\domain\repository\impl\InMemoryRendaRepository.class
